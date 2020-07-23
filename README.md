@@ -5,7 +5,7 @@
 Please run following commands to build the project:
 
 ```
-cd ./battleships
+cd ./Battleships
 dotnet build
 ```
 
@@ -14,7 +14,7 @@ dotnet build
 Please run following commands to run the project:
 
 ```
-cd ./battleships
+cd ./Battleships
 dotnet run
 ```
 
@@ -23,6 +23,6 @@ dotnet run
 Please run following commands to run tests for the project:
 
 ```
-cd ./tests
+cd ./Tests
 dotnet test
 ```
